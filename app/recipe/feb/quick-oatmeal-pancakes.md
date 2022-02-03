@@ -4,6 +4,8 @@ My husband used to not like pancakes and absolutely hate pancake syrup until I h
 
 https://www.allrecipes.com/recipe/228654/quick-oatmeal-pancakes/
 
+Source: https://www.allrecipes.com/recipe/228654/quick-oatmeal-pancakes/
+
 ## Ingredients
 
 - 1 cup milk
