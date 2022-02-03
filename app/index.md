@@ -8,7 +8,7 @@ Welcome to _Flavor_, the only place on the planet where your taste buds won't be
 
 ### [Cuba Pudding Jr.](writer/cuba-pudding-jr.md)
 
-[Quick Oatmeal Pancakes](recipe/feb/Quick-Oatmeal-Pancakes.md)
+[Quick Oatmeal Pancakes](recipe/feb/quick-oatmeal-pancakes.md)
 
 ### [Eggs Benny](writer/eggs-benny.md)
 
